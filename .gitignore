@@ -1,0 +1,6 @@
+!/data/snapshot_metadata/.keep
+!/data/index/.keep
+!/data/tlog/.keep
+/data/snapshot_metadata
+/data/index
+/data/tlog
